@@ -17,21 +17,21 @@ So this is kind a like my journey to self-learn about Data Science. I don't mind
 ### 1. 30/08/2025
 I started my journey by reading **[@katiehuangx](https://github.com/katiehuangx)** [Transition-into-Data-Analytics](https://github.com/katiehuangx/Transition-into-Data-Analytics) on how she transition from an Accountant into a Data Engineer. So from her journey I've decided to study the basics of the Data Analysis from Alex's Youtube video on **SQL, Excel, Tableau, Power BI, and Python** through his free bootcamp playlist.
 
-As of now I've made progress by learning about the Basic SQL knowledge while following the tutorial as shown by Alex, which includes the <u>Select statement, Where clause, Group By & Order By, Having vs Where and Limit & Aliasing.</u>
+As of now I've made progress by learning about the Basic SQL knowledge while following the tutorial as shown by Alex, which includes the **Select statement, Where clause, Group By & Order By, Having vs Where and Limit & Aliasing.**
 
 ### 2. 31/08/2025
 I continue to learn from the Alex Freeberg (Alex the Analyst) on YouTubes about the Intermediate and Advanced SQL tutorial, it was easy just by watching him do it and follow along, but I still do need a lot of practices so that I can remember the use cases of the codes for real-world scenarios. 
 
-For the Intermediate SQL tutorial I learned about <u>Joins, Unions, String Function, Case Statement, Subqueries and Window Functions/<u>
+For the Intermediate SQL tutorial I learned about **Joins, Unions, String Function, Case Statement, Subqueries and Window Function.s**
 
-For the Advanced Tutorial SQL tutorial, I learned about <u> CTEs, Temporary Table, Stored Procedures and Triggers & Events</u>
+For the Advanced Tutorial SQL tutorial, I learned about **CTEs, Temporary Table, Stored Procedures and Triggers & Events.**
 
 It was really fun actually to be able to work with data, and I'm very invested to learn more about Data Analysis
 
 Furthermore, I also completed the **Data Cleaning Project using MySQL** which is also part of the bootcamp and I can see that it's quite complex but I do still need a lot more practices. It was very interesting on how we can work on data cleaning. The Data Cleaning project includes 
-1. removing duplicates
+**1. removing duplicates
 2. standardize the data
 3. null values or blank values
-4. remove any null or blank columns
+4. remove any null or blank columns**
 
 Overall on day 2, it was very interesting and fun to work with data and performing data analysis.
