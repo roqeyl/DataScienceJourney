@@ -29,9 +29,9 @@ For the Advanced Tutorial SQL tutorial, I learned about **CTEs, Temporary Table,
 It was really fun actually to be able to work with data, and I'm very invested to learn more about Data Analysis
 
 Furthermore, I also completed the **Data Cleaning Project using MySQL** which is also part of the bootcamp and I can see that it's quite complex but I do still need a lot more practices. It was very interesting on how we can work on data cleaning. The Data Cleaning project includes 
-**1. removing duplicates
+1. removing duplicates
 2. standardize the data
 3. null values or blank values
-4. remove any null or blank columns**
+4. remove any null or blank columns
 
 Overall on day 2, it was very interesting and fun to work with data and performing data analysis.
