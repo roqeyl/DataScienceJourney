@@ -20,7 +20,7 @@ I started my journey by reading **[@katiehuangx](https://github.com/katiehuangx)
 As of now I've made progress by learning about the Basic SQL knowledge while following the tutorial as shown by Alex, which includes the **Select statement, Where clause, Group By & Order By, Having vs Where and Limit & Aliasing.**
 
 ### 2. 31/08/2025
-I continue to learn from the Alex Freeberg (Alex the Analyst) on YouTubes about the Intermediate and Advanced SQL tutorial, it was easy just by watching him do it and follow along, but I still do need a lot of practices so that I can remember the use cases of the codes for real-world scenarios. 
+I continue to learn from the Alex Freeberg (Alex the Analyst) on YouTube about the Intermediate and Advanced SQL tutorial, it was easy just by watching him do it and follow along, but I still do need a lot of practices so that I can remember the use cases of the codes for real-world scenarios. 
 
 For the Intermediate SQL tutorial I learned about **Joins, Unions, String Function, Case Statement, Subqueries and Window Function.s**
 
@@ -35,3 +35,8 @@ Furthermore, I also completed the **Data Cleaning Project using MySQL** which is
 4. remove any null or blank columns
 
 Overall on day 2, it was very interesting and fun to work with data and performing data analysis.
+
+### 2. 31/08/2025
+I continue to learn from the Alex Freeberg (Alex the Analyst) on YouTube on the **MySQL Exploratory Data Analysis** which is very fun, I learned on how to query and obtained meaningful insights and informations from the project's dataset.
+
+Then I continue on **Excel tutorial** which is very very interesting, which are the **Pivot Tables, Formulas, XLOOKUP & VLOOKUP, Conditional Formating and Charts** in Excel. It's actually quite easy and could be a lot more easier if I put on more practice into it. Excel is a powerful tool to perform Data Analysis and can be transfrom into visualization which makes it much more easier for Data Analysis. Alex's teaching were so great that I could easily understand and getting more and more interested in Data Analysis.
