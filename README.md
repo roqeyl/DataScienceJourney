@@ -40,3 +40,10 @@ Overall on day 2, it was very interesting and fun to work with data and performi
 I continue to learn from the Alex Freeberg (Alex the Analyst) on YouTube on the **MySQL Exploratory Data Analysis** which is very fun, I learned on how to query and obtained meaningful insights and informations from the project's dataset.
 
 Then I continue on **Excel tutorial** which is very very interesting, which are the **Pivot Tables, Formulas, XLOOKUP & VLOOKUP, Conditional Formating and Charts** in Excel. It's actually quite easy and could be a lot more easier if I put on more practice into it. Excel is a powerful tool to perform Data Analysis and can be transfrom into visualization which makes it much more easier for Data Analysis. Alex's teaching were so great that I could easily understand and getting more and more interested in Data Analysis.
+
+### 4. 2/09/2025
+I continue to learn from the Alex Freeberg (Alex the Analyst) on YouTube on the **Excel Data Cleaning** and I got to learn on how to properly clean datasets into an appropriate format. I got work around with Excel features and formulas and it was so much easier.
+
+Then I continue on the **Full Project usign Excel** which I clean the datasets and further using Pivot Table to generate meaningful charts to create a Dashboard for the dataset. It is so interesting and I'm so amazed that there were so much you can do with Excel as a Data Analysis tool.
+
+Furthermore, I started on the **Tableau** tutorial which is very new for me, and I can see that it is a Data Visualization tool to perform Data Analysis. There were so much features in Tableau that helps in visualizing the data. Some of the skills I learned from the bootcamp were **importing data into Tableau, Calculated Field Bins, Bar and Line Graphs, Density Maps, Joins and even a Full Project using Tableau**. Tableau is relatively new for me and I do strongly need to put more practice into using it.
