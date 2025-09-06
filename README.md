@@ -46,4 +46,29 @@ I continue to learn from the Alex Freeberg (Alex the Analyst) on YouTube on the 
 
 Then I continue on the **Full Project usign Excel** which I clean the datasets and further using Pivot Table to generate meaningful charts to create a Dashboard for the dataset. It is so interesting and I'm so amazed that there were so much you can do with Excel as a Data Analysis tool.
 
-Furthermore, I started on the **Tableau** tutorial which is very new for me, and I can see that it is a Data Visualization tool to perform Data Analysis. There were so much features in Tableau that helps in visualizing the data. Some of the skills I learned from the bootcamp were **importing data into Tableau, Calculated Field Bins, Bar and Line Graphs, Density Maps, Joins and even a Full Project using Tableau**. Tableau is relatively new for me and I do strongly need to put more practice into using it.
+Furthermore, I started on the **Tableau** tutorial which is very new for me, and I can see that it is a Data Visualization tool to perform Data Analysis. There were so much features in Tableau that helps in visualizing the data. Some of the skills I learned from the bootcamp were 
+**importing data into Tableau, 
+Calculated Field Bins, 
+Bar and Line Graphs, 
+Density Maps, 
+Joins 
+and even a Full Project using Tableau**. 
+Tableau is relatively new for me and I do strongly need to put more practice into using it.
+
+### 5. 6/09/2025
+On this day I continue to learn from the Alex Freeberg (Alex the Analyst) on YouTube on the **Power BI** tutorials. So far I just learned the basic on Power BI, it is such a powerfull and usefull tool to use for Data Analytics, not only it can visualize data, but it can also be use to clean a dataset (so far on what I've learned), and in my opinion I'd prefer Power BI over Excel due to its powerful features and also providing the same functionality as Excel, But for large dataset, I can say that Excel is the best choice for Data Cleaning. I started on the basic of the Power BI skills such as
+**How to use Power Query, 
+How to Create and Manage Relationships, 
+How to Use DAX, 
+How to Drill Down, 
+Conditional Formating, 
+Bins and 
+Lists & Popular Visualization on Power BI**
+
+Additionally I've completed a **Full Power BI Project** which covers the skills on 
+
+**Data Cleaning, 
+Data Visualization,
+Creating Dashboards From Data Visualization**
+
+The dataset contains raw data about a survey from 630 people on LinkedIN.
