@@ -71,4 +71,45 @@ Additionally I've completed a **Full Power BI Project** which covers the skills 
 Data Visualization,
 Creating Dashboards From Data Visualization**
 
-The dataset contains raw data about a survey from 630 people on LinkedIN.
+The dataset contains raw data about a survey from 600-700 people on LinkedIN.
+
+### 5. 6/09/2025
+On this day I continue to learn from the Alex Freeberg (Alex the Analyst) on YouTube on the **Python** tutorials using Jupyter Notebook. I've used Jupyter Notebook on one occassion during my Final Year Project to clean datasets, and for Machine Learning evaluation. At first I'm using Google Colab but due to internet connectivity issues, I transition to using Jupyter Notebook for my FYP. 
+
+For today's lesson, I learned about **Variables in Python** which includes 
+
+**assigning variables** and 
+**good variables naming practices** using 
+**Camel Case, Pascal Case & Snake Case**. 
+
+Then, I learned obout the **Data Types** such as 
+
+**numeric** which broken down into 
+**INTEGER** (+ve & -ve whole number), 
+**FLOAT** (decimal) & 
+**Complex Numbers** (use for imaginary numbers, j is the only letter that wll work as complex numeric). 
+
+Furthermore on 
+
+**sequence type** (strings & string index, lists & nested lists, & tuples(immunable, cannot be modify or change after creation), 
+**boolean** (true & false), 
+**sets** (similar to lists and tuple but, CANNOT HAVE DUPLICATES ELEMETS & VALUE IN SETS CANNOT BE ACCESSED IN INDEX BCS IT DOES NOT HAVE AN INDEX (UNORDERED)) & 
+**dictionary** (Key/Value Pair)
+
+Last but not least, I learned on the **Comparison, Logical and Membership Operators** which are the:
+
+ == : Equal
+ != : Not Equal
+ >  : Greater Than
+ <  : Less Than
+ >= : Greater Than or Equal To
+ <= : Less Than or Equal To
+
+**Logical Operators**
+ and :(returns true if both statements are true)
+ or  :(returns true if one of the statements is true)
+ not :(reverse the results, returns False if the result is True)
+
+**Membership Operator**
+in (returns true if a sequence with the specified value is present in the object)
+not in (returns true if a sequence with the specified value is not present in the object)
