@@ -84,32 +84,32 @@ For today's lesson, I learned about **Variables in Python** which includes
 
 Then, I learned obout the **Data Types** such as 
 
-**numeric** which broken down into 
-**INTEGER** (+ve & -ve whole number), 
-**FLOAT** (decimal) & 
-**Complex Numbers** (use for imaginary numbers, j is the only letter that wll work as complex numeric). 
+1. **numeric** which broken down into 
+1.1 **INTEGER** (+ve & -ve whole number), 
+1.2 **FLOAT** (decimal) & 
+1.3 **Complex Numbers** (use for imaginary numbers, j is the only letter that wll work as complex numeric). 
 
 Furthermore on 
 
-**sequence type** (strings & string index, lists & nested lists, & tuples(immunable, cannot be modify or change after creation), 
-**boolean** (true & false), 
-**sets** (similar to lists and tuple but, CANNOT HAVE DUPLICATES ELEMETS & VALUE IN SETS CANNOT BE ACCESSED IN INDEX BCS IT DOES NOT HAVE AN INDEX (UNORDERED)) & 
-**dictionary** (Key/Value Pair)
+1. **sequence type** (strings & string index, lists & nested lists, & tuples(immunable, cannot be modify or change after creation), 
+2. **boolean** (true & false), 
+3. **sets** (similar to lists and tuple but, CANNOT HAVE DUPLICATES ELEMETS & VALUE IN SETS CANNOT BE ACCESSED IN INDEX BCS IT DOES NOT HAVE AN INDEX (UNORDERED)) & 
+4. **dictionary** (Key/Value Pair)
 
 Last but not least, I learned on the **Comparison, Logical and Membership Operators** which are the:
 
- == : Equal
- != : Not Equal
- >  : Greater Than
- <  : Less Than
- >= : Greater Than or Equal To
- <= : Less Than or Equal To
+ 1. == : Equal
+ 2. != : Not Equal
+ 3. >  : Greater Than
+ 4. <  : Less Than
+ 5. >= : Greater Than or Equal To
+ 6. <= : Less Than or Equal To
 
-**Logical Operators**
+1. **Logical Operators**
  and :(returns true if both statements are true)
  or  :(returns true if one of the statements is true)
  not :(reverse the results, returns False if the result is True)
 
-**Membership Operator**
+2. **Membership Operator**
 in (returns true if a sequence with the specified value is present in the object)
 not in (returns true if a sequence with the specified value is not present in the object)
